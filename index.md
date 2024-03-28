@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: スキルシート
 ---
 
@@ -24,27 +24,27 @@ title: スキルシート
 
 ### 言語
 
-PHP || Python | Kotlin | Java | JavaScript || Go | TypeScript
+PHP, Python, Kotlin, Java, JavaScript, Go, TypeScript
 
 ### フレームワーク
 
-Laravel || Spring Boot | CakePHP | Next.js | React | Vue.js | jQuery
+Laravel, Spring Boot, CakePHP, Next.js, React, Vue.js, jQuery
 
 ### RDB/NoSQL
 
-MySQL || PostgreSQL | Redis | Memcached
+MySQL, PostgreSQL, Redis, Memcached
 
 ### AWS
 
-VPC | S3 | API Gateway | Lambda | ELB | EC2 | ECS | Fargate | Route53 | IAM | Cognito | RDS(MySQL) | Aurora | DynamoDB | ElastiCache(Redis|Memcached) | SNS | SES | CloudFormation | CloudWatch | EventBridge | Secrets Manager | Amplify | CodeBuild | CodeDeploy | CodePipeline | ECR | Athena
+VPC, S3, API Gateway, Lambda, ELB, EC2, ECS, Fargate, Route53, IAM, Cognito, RDS(MySQL), Aurora, DynamoDB, ElastiCache(Redi,Memcached), SNS, SES, CloudFormation, CloudWatch, EventBridge, Secrets Manager, Amplify, CodeBuild, CodeDeploy, CodePipeline, ECR, Athena
 
 ### SaaS/PaaS
 
-GitHub | GitHub Actions | BitBucket | Datadog
+GitHub, GitHub Actions, BitBucket, Datadog
 
 ### その他
 
-Docker | Jenkins | Fluentd | Ansible | Nginx | Apache | Gulp | Webpack | SASS
+Docker, Jenkins, Fluentd, Ansible, Nginx, Apache, Gulp, Webpack, SASS
 
 ## 得意業務
 
