@@ -1,1 +1,0 @@
-# takaharu-niki.github.io
