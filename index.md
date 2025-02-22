@@ -11,7 +11,8 @@ title: スキルシート
 |現在地|大阪市|
 |ブログ|[アントレプログラマー](https://entreprogrammer.jp/)
 |X(Twitter)|[@takaharu_niki](https://twitter.com/takaharu_niki)|
-|趣味|筋トレ・自転車|
+|趣味|筋トレ、料理|
+|TOEIC|640点(2024年時点)|
 
 ## 得意分野
 
