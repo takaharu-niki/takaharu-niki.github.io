@@ -49,17 +49,15 @@ Docker, Jenkins, Fluentd, Ansible, Nginx, Apache, Gulp, Webpack, SASS
 
 ## 得意業務
 
-- SQLチューニング
-- TDDを用いた安全なコード変更
-- デプロイの自動化
-- インフラのコード化
 - LinterやFormatterの導入
 - 単体テストの導入
-- CIサービスの導入
-- コンテナ化(Docker化)
-- オートスケールの設定
-- デプロイの自動化
+- TDDを用いた安全なコード変更
 - 変更に強い設計
+- SQLチューニング
+- コンテナ化(Docker化)
+- CI/CDの構築
+- インフラのコード化
+- オートスケールの設定
 
 ## 主な業務経歴
 
