@@ -57,7 +57,7 @@ MySQL, PostgreSQL, Redis, Memcached
 
 ### AWS
 
-VPC, S3, API Gateway, Lambda, ELB, EC2, ECS, Fargate, Route53, IAM, Cognito, RDS(MySQL), Aurora, DynamoDB, ElastiCache(Redi,Memcached), SNS, SES, CloudFormation, CloudWatch, EventBridge, Secrets Manager, Amplify, CodeBuild, CodeDeploy, CodePipeline, ECR, Athena
+VPC, S3, API Gateway, Lambda, ELB, EC2, ECS, Fargate, Route53, IAM, Cognito, RDS(MySQL), Aurora, DynamoDB, ElastiCache(Redis,Memcached), SNS, SES, CloudFormation, CloudWatch, EventBridge, Secrets Manager, Amplify, CodeBuild, CodeDeploy, CodePipeline, ECR, Athena
 
 ### Google Cloud
 
